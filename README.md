@@ -1,0 +1,1 @@
+This is Stardust's first git project!
